@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./paulicolomesiir00spiegoog_0795.png"; bbox 0 0 940 1219; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 220 313 822 456">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 220 313 822 456">
+     <span class='ocr_line' id='line_1_1' title="bbox 220 313 822 385; baseline -0.003 -11"><span class='ocrx_word' id='word_1_1' title='bbox 220 342 349 385; x_wconf 66' lang='lat' dir='ltr'><em>Erasms</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 365 340 465 384; x_wconf 58' lang='lat' dir='ltr'>aepqsoza</span> <span class='ocrx_word' id='word_1_3' title='bbox 483 324 639 383; x_wconf 44' lang='lat' dir='ltr'><em>prefatorsa</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 653 341 694 375; x_wconf 54' lang='lat' dir='ltr'>„a</span> <span class='ocrx_word' id='word_1_5' title='bbox 707 313 822 372; x_wconf 44' lang='lat' dir='ltr'>&lt;maala</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 312 383 761 456; baseline 0.004 -1"><span class='ocrx_word' id='word_1_6' title='bbox 312 408 323 413; x_wconf 32' lang='lat'>*-</span> <span class='ocrx_word' id='word_1_7' title='bbox 337 384 448 420; x_wconf 57' lang='lat' dir='ltr'>m„</span> <span class='ocrx_word' id='word_1_8' title='bbox 462 383 720 456; x_wconf 45' lang='lat' dir='ltr'><em>’mm-mim</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 756 436 761 438; x_wconf 12' lang='grc' dir='ltr'>ε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 117 544 845 729">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 117 544 845 729">
+     <span class='ocr_line' id='line_1_3' title="bbox 278 544 845 616; baseline -0.005 -17"><span class='ocrx_word' id='word_1_10' title='bbox 278 555 362 611; x_wconf 80' lang='lat' dir='ltr'>Qi</span> <span class='ocrx_word' id='word_1_11' title='bbox 375 544 532 599; x_wconf 54' lang='lat' dir='ltr'>&amp;iliorum</span> <span class='ocrx_word' id='word_1_12' title='bbox 544 550 630 599; x_wconf 57' lang='lat' dir='ltr'>vitia</span> <span class='ocrx_word' id='word_1_13' title='bbox 642 567 760 603; x_wconf 83' lang='lat' dir='ltr'>taxat,</span> <span class='ocrx_word' id='word_1_14' title='bbox 772 569 845 616; x_wconf 87' lang='lat' dir='ltr'><strong>quae·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 186 610 845 664; baseline 0.003 -9"><span class='ocrx_word' id='word_1_15' title='bbox 186 611 254 664; x_wconf 62' lang='lat' dir='ltr'>sog</span> <span class='ocrx_word' id='word_1_16' title='bbox 286 626 431 655; x_wconf 74' lang='lat' dir='ltr'>mum</span> <span class='ocrx_word' id='word_1_17' title='bbox 456 613 484 655; x_wconf 78' lang='lat' dir='ltr'>is</span> <span class='ocrx_word' id='word_1_18' title='bbox 511 610 845 662; x_wconf 72' lang='lat' dir='ltr'>morderevidem,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 117 666 805 729; baseline -0.003 -17"><span class='ocrx_word' id='word_1_19' title='bbox 117 694 121 697; x_wconf 93' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 183 684 231 712; x_wconf 84' lang='lat' dir='ltr'>an</span> <span class='ocrx_word' id='word_1_21' title='bbox 272 666 400 712; x_wconf 86' lang='lat' dir='ltr'>docere</span> <span class='ocrx_word' id='word_1_22' title='bbox 426 669 551 729; x_wconf 78' lang='lat' dir='ltr'><strong>potius·</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 577 677 805 715; x_wconf 78' lang='lat' dir='ltr'><strong>acmonere?</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
